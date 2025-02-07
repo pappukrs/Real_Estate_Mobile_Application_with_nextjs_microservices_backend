@@ -3,6 +3,16 @@
 # dependencies
 node_modules/
 
+/admin/node_modules/
+/admin/.next/
+/admin/.vercel/
+/admin/.nuxt/
+/admin/.output/
+/admin/.svelte-kit/
+# testing
+/coverage/
+/admin/package-lock.json
+
 # Expo
 .expo/
 dist/
